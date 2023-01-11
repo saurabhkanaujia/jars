@@ -1,0 +1,98 @@
+[09:12, 1/4/2023] Rahul Mishra: string pallendrom in java8
+1)drwback of api gateway?
+2)how to change the server in springBoot?
+3)how to implement the authorization in ms?
+4)environment profiling in spring boot?
+[09:12, 1/4/2023] Rahul Mishra: https://dzone.com/articles/circuit-breaker-pattern
+https://documentation.commvault.com/commvault/v11/article?p=45599.htm
+https://javabeat.net/spring-mvc-requestparam-pathvariable/
+https://javaconceptoftheday.com/how-hashset-works-internally-in-java/
+https://www.opencodez.com/how-to-guide/improve-code-quality-with-sonarlint.htm
+https://www.youtube.com/watch?v=oUJbuFMyBDk
+https://www.edureka.co/blog/shallow-and-deep-copy-java/
+https://howtodoinjava.com/spring-boot2/rest/enableasync-async-controller/
+https://www.javatpoint.com/difference-between-constructor-and-setter-injection
+https://stackoverflow.com/questions/30337582/spring-boot-configure-and-use-two-datasources
+https://howtodoinjava.com/spring-boot2/oauth2-auth-server/
+https://www.youtube.com/watch?v=O8sgkKRIZyo
+https://www.quora.com/What-are-the-main-differences-between-JWT-and-OAuth-authentication
+https://dzone.com/articles/registering-multiple-local-microservice-instances
+https://www.youtube.com/watch?v=B5Er178praM
+https://mkyong.com/java8/java-8-how-to-sort-list-with-stream-sorted/
+https://mkyong.com/java8/java-8-collectors-groupingby-and-mapping-example/
+https://mkyong.com/java8/java-8-find-duplicate-elements-in-a-stream/
+https://www.youtube.com/watch?v=W-TadPbi--A
+https://howtodoinjava.com/spring-boot2/security-rest-basic-auth-example/
+https://www.digite.com/agile/scrum-methodology/#:~:text=Scrum%20is%20an%20agile%20development,the%20development%20of%20the%20project.
+https://www.guru99.com/clustered-vs-non-clustered-index.html
+https://www.javadevjournal.com/java/java-difference-between-map-and-flatmap/
+jm,
+https://dzone.com/articles/prevent-breaking-a-singleton-class-pattern
+https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm
+basic authontication in spring boot?
+join in hibernate
+diffrence between stream and parall stream
+1 to many or many to one
+https://mkyong.com/java8/java-8-convert-list-to-map/
+https://www.nagarro.com/en/blog/post/24/performance-improvement-for-hashmap-in-java-8#:~:text=In%20Java%208%2C%20HashMap%20replaces,used%20as%20a%20branching%20variable.
+
+https://www.youtube.com/watch?v=ZT_5eS6IpD8
+https://javaconceptoftheday.com/java-8-stream-intermediate-and-terminal-operations/
+https://mkyong.com/java8/java-8-convert-map-to-list/
+https://medium.com/@patilpoojaif/inner-join-vs-cross-join-in-sql-server-36034f3b140a
+https://mkyong.com/java8/java-how-to-sum-all-the-stream-integers/
+https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/#:~:text=The%20first%20difference%20between%20map,the%20returning%20value%20remains%20different.
+
+thoughtlink process
+
+
+https://docs.spring.io/spring-boot/docs/2.1.9.RELEASE/reference/html/using-boot-auto-configuration.html#:~:text=If%20the%20class%20is%20not,exclude%20property.
+https://www.javaguides.net/2021/03/validation-in-spring-boot-rest-api-with-hibernate-validator.html
+Spring Cloud is a framework that provides facilities to use cloud services in your application.
+https://blog.devgenius.io/what-is-spring-cloud-and-how-it-is-different-from-spring-and-spring-boot-128d276a1432
+
+https://www.mkyong.com/java/how-to-sort-a-map-in-java/
+http://stackoverflow.com/questions/1036754/difference-between-wait-and-sleep
+http://www.javaforecast4u.com/2012/05/difference-between-beanfactory-and.html
+http://firozstar.tripod.com/_darksiderg.pdf
+https://hcv-abbviecare-dev.maplesoftwares.com/jenkins/
+http://www.javatpoint.com/singleton-design-pattern-in-java
+http://javarevisited.blogspot.in/2013/02/concurrenthashmap-in-java-example-tutorial-working.html
+http://www.java4s.com/spring-mvc/spring-mvc-execution-flow-diagram-spring-mvc-3-2-flow/
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-handler-mapping-example/
+http://www.mkyong.com/spring-security/spring-security-form-login-using-database/
+http://javarevisited.blogspot.in/2011/08/classnotfoundexception-in-java-example.html
+http://javahungry.blogspot.com/2015/05/implements-runnable-vs-extends-thread-in-java-example.html
+http://stackoverflow.com/questions/2056243/java-synchronized-block-for-class
+https://www.youtube.com/watch?v=297ApgyhG7M
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://indrabasak.wordpress.com/2016/04/07/swagger-2-integration-with-spring-rest/
+http://javapapers.com/core-java/java-class-loader/
+http://www.programcreek.com/java-api-examples/index.php?api=com.wordnik.swagger.annotations.ApiImplicitParam
+https://github.com/OAI/OpenAPI-Specification/blob/master/versions/1.2.md#parameterParamType
+http://www.javainterviewpoint.com/spring-mvc-handler-mapping/
+https://maplesoftwares.atlassian.net/browse/HUMS-41
+http://hcvdb-abbviecare-dev.maplesoftwares.com:5984/_utils/
+http://safalta.com/
+http://geekexplains.blogspot.in/2008/06/what-is-connection-pooling-why-do-we.html
+http://www.javamadesoeasy.com/2015/07/12-differences-between-statement.html
+https://www.codeproject.com/articles/126898/sql-server-how-to-write-a-stored-procedure-in-sql
+Learn Store Procedure in SQL in Hindi tutorial for beginners
+http://stackoverflow.com/questions/9700871/what-is-difference-between-sleep-method-and-yield-method-of-multi-threading
+http://stackoverflow.com/questions/19100865/is-this-the-doubleton-class
+http://stackoverflow.com/questions/17599216/spring-bean-scopes
+http://www.java67.com/2012/09/what-is-copyonwritearraylist-in-java-example-vs-arraylist.html
+http://www.java2novice.com/data-structures-in-java/linked-list/singly-linked-list/
+http://stackoverflow.com/questions/12646404/concurrenthashmap-and-hashtable-in-java
+http://www.journaldev.com/110/how-to-implement-arraylist-with-array-in-java
+https://www.javamadesoeasy.com/2015/02/arraylist-custom-implementation.html
+http://www.careerride.com/Java-Static-Dynamic-Class.aspx
+https://webdeveloperankitakulkarni.files.wordpress.com/2012/10/scjp-sun-certified-programmer-for-java-platform-6th-edtqw_darksiderg.pdf
+http://viralpatel.net/blogs/spring-4-mvc-rest-example-json/
+https://www.javatpoint.com/soap-vs-rest-web-services
+
+
+Fiegn client-->
+RestTemplate-->Sysnchronous call
+saga design pattern
+Messaging Que
